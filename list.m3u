@@ -42,6 +42,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0258
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065076342222450690/Yc9-8FPg_400x400.jpg" group-title="Nacionales", Telefe Tucuman
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0274
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065076342222450690/Yc9-8FPg_400x400.jpg" group-title="Nacionales", Telefe Tucuman OP 2
+https://telefecanal2.akamaized.net/hls/live/2033414-b/canal8tucuman/TOK/master.m3u8?hdnea=st=1670505695~exp=1670682095~acl=/hls/live/2033414-b/canal8tucuman/TOK/*~hmac=fe7a1b040a1cc9868cec8ee0b69babb4bac2ec957bce9dd6ff25e6d66fe336f2
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1552046129801580548/aPHfyis0_400x400.jpg" group-title="Nacionales", Canal 8 Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
